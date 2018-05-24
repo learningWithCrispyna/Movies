@@ -1,0 +1,9 @@
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\bin\Debug\netcoreapp2.0\Movies.DataContext.deps.json
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\bin\Debug\netcoreapp2.0\Movies.DataContext.dll
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\bin\Debug\netcoreapp2.0\Movies.DataContext.pdb
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\obj\Debug\netcoreapp2.0\Movies.DataContext.csprojResolveAssemblyReference.cache
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\obj\Debug\netcoreapp2.0\Movies.DataContext.csproj.CoreCompileInputs.cache
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\obj\Debug\netcoreapp2.0\Movies.DataContext.AssemblyInfoInputs.cache
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\obj\Debug\netcoreapp2.0\Movies.DataContext.AssemblyInfo.cs
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\obj\Debug\netcoreapp2.0\Movies.DataContext.dll
+c:\users\kristina\source\repos\Movies_EusebiuM\Movies.DataContext\obj\Debug\netcoreapp2.0\Movies.DataContext.pdb
